@@ -7,17 +7,17 @@
 locale: "en-US"            # Main language/locale of the site
 site_theme: "default"      # Theme skin used by the site
 
-title: "Lijing Zhu | Data Science & ML Research"   # Text shown in browser tab and SEO metadata
+title: "Kyoseok Hwang | Data Science & IT specialist"   # Text shown in browser tab and SEO metadata
 title_separator: "-"       # Separator used in page titles
-name: "Lijing Zhu"         # Main name shown across the site
-description: "Academic portfolio and research in data science and machine learning"  # Short site description for search engines
+name: "Kyoseok Hwang"         # Main name shown across the site
+description: "IT Support & Operations | Data Science Graduate candidate Student | System Support, Troubleshooting, and Optimization| IoT & Smart Systems Interest"  # Short site description for search engines
 
 # -------------------------
 # GitHub Pages repository settings
 # -------------------------
 # For a user site, url should match:
 # https://yourusername.github.io
-url: "https://lijingzhu1.github.io"
+url: "https://github.com/BOB-KYO/kyoseokhwang2026"
 
 # Leave baseurl empty for a user site repository named:
 # yourusername.github.io
@@ -26,25 +26,25 @@ baseurl: ""
 
 # Must match the GitHub repository path exactly:
 # username/repository-name
-repository: "lijingzhu1/lijingzhu1.github.io"
+repository: "BOB-KYO/kyoseokhwang2026.github.io"
 
 # -------------------------
 # Author profile information
 # -------------------------
 author:
   avatar: "profile.JPG"    # Profile image file shown in the sidebar/profile area
-  name: "Lijing Zhu"
-  bio: "Assistant professor at University of Houston-Clear Lake. Ph.D. in Data Science from Bowling Green State University. Research focus on machine learning and graph-based deep learning."
+  name: "Kyoseok Hwang"
+  bio: "IT Support & Operations | Data Science Graduate candidate Student | System Support, Troubleshooting, and Optimization| IoT & Smart Systems Interest"
   location: "TX"
-  employer: "University of Houston-Clear Lake"
-  email: "zhul@uhcl.edu"
+  MS Student: "University of Houston-Clear Lake"
+  email: "hwangk7110@uhcl.edu"
 
   # Professional / academic links
   # Leave a field empty if it is not used.
-  googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
-  github: "lijingzhu1"
-  linkedin: "www.linkedin.com/in/lijingz-19970620"
-  orcid: "https://orcid.org/0009-0002-7107-2880"
+  #googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
+  github: "BOB_KYO"
+  linkedin: "https://www.linkedin.com/in/cs-kyo-hwang/"
+  #orcid: "https://orcid.org/0009-0002-7107-2880"
 
 # -------------------------
 # General behavior
