@@ -32,7 +32,7 @@ repository: "BOB-KYO/kyoseokhwang2026.github.io"
 # Author profile information
 # -------------------------
 author:
-  avatar: "profile.JPG"    # Profile image file shown in the sidebar/profile area
+  avatar: "ksh_photo.jpeg"    # Profile image file shown in the sidebar/profile area
   name: "Kyoseok Hwang"
   bio: "IT Support & Operations | Data Science Graduate candidate Student | System Support, Troubleshooting, and Optimization| IoT & Smart Systems Interest"
   location: "TX"
