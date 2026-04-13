@@ -1,0 +1,126 @@
+# Minimal Academic Personal Website Config
+# This file controls the main site settings for the GitHub Pages website.
+
+# -------------------------
+# Site identity
+# -------------------------
+locale: "en-US"            # Main language/locale of the site
+site_theme: "default"      # Theme skin used by the site
+
+title: "Lijing Zhu | Data Science & ML Research"   # Text shown in browser tab and SEO metadata
+title_separator: "-"       # Separator used in page titles
+name: "Lijing Zhu"         # Main name shown across the site
+description: "Academic portfolio and research in data science and machine learning"  # Short site description for search engines
+
+# -------------------------
+# GitHub Pages repository settings
+# -------------------------
+# For a user site, url should match:
+# https://yourusername.github.io
+url: "https://lijingzhu1.github.io"
+
+# Leave baseurl empty for a user site repository named:
+# yourusername.github.io
+# Only use a baseurl for project sites.
+baseurl: ""
+
+# Must match the GitHub repository path exactly:
+# username/repository-name
+repository: "lijingzhu1/lijingzhu1.github.io"
+
+# -------------------------
+# Author profile information
+# -------------------------
+author:
+  avatar: "profile.JPG"    # Profile image file shown in the sidebar/profile area
+  name: "Lijing Zhu"
+  bio: "Assistant professor at University of Houston-Clear Lake. Ph.D. in Data Science from Bowling Green State University. Research focus on machine learning and graph-based deep learning."
+  location: "TX"
+  employer: "University of Houston-Clear Lake"
+  email: "zhul@uhcl.edu"
+
+  # Professional / academic links
+  # Leave a field empty if it is not used.
+  googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
+  github: "lijingzhu1"
+  linkedin: "www.linkedin.com/in/lijingz-19970620"
+  orcid: "https://orcid.org/0009-0002-7107-2880"
+
+# -------------------------
+# General behavior
+# -------------------------
+breadcrumbs: false         # Hide breadcrumb navigation for a cleaner layout
+words_per_minute: 160      # Used for estimated reading time on pages
+future: true               # Publish dated content even if the date is in the future
+
+# -------------------------
+# Markdown processing
+# -------------------------
+markdown: kramdown         # Markdown engine used by Jekyll
+highlighter: rouge         # Syntax highlighter for code blocks
+excerpt_separator: "\n\n"  # Controls how automatic excerpts are split
+
+kramdown:
+  input: GFM               # Use GitHub Flavored Markdown
+  hard_wrap: false         # Do not force line breaks on every new line
+  auto_ids: true           # Automatically create heading IDs for links
+
+# -------------------------
+# Content collections
+# -------------------------
+# Collections are groups of content stored in special folders.
+# Example:
+# _publications -> publications
+# _portfolio    -> portfolio
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+# -------------------------
+# Default page settings
+# -------------------------
+# These defaults avoid repeating the same settings in every page file.
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+
+# -------------------------
+# Files to include / exclude
+# -------------------------
+include:
+  - _pages                 # Ensure files in _pages are processed and published
+
+exclude:
+  - node_modules           # Development dependencies, not needed for the live site
+  - vendor                 # Bundler-generated files, not needed on GitHub Pages
+  - Gemfile                # Local dependency file, not published as site content
+  - Gemfile.lock           # Local dependency lock file
+
+# -------------------------
+# URL output settings
+# -------------------------
+permalink: /:categories/:title/   # Default URL structure for generated pages/posts
+timezone: "Etc/UTC"               # Site timezone used by Jekyll when processing dates
+
+# -------------------------
+# Plugins
+# -------------------------
+# Only keep plugins that are safe for GitHub Pages.
+plugins:
+  - jekyll-feed            # Generates an RSS/Atom feed
+  - jekyll-sitemap         # Generates sitemap.xml for search engines
