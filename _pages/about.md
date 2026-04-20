@@ -27,6 +27,6 @@ I am particularly interested in the intersection of data science, IoT, and smart
 
 - **M.S. Data Science** — University of Houston–Clear Lake *(in progress)*
 
-## News
+## My Motto
 
 > *"Curious by nature. Systematic by practice."*
