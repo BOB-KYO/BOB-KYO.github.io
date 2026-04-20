@@ -29,4 +29,4 @@ I am particularly interested in the intersection of data science, IoT, and smart
 
 ## News
 
-> *"Still learning. Always shipping."*
+> *"Curious by nature. Systematic by practice."*
