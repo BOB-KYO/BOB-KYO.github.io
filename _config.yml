@@ -17,7 +17,7 @@ description: "IT Support & Operations | Data Science Graduate candidate Student 
 # -------------------------
 # For a user site, url should match:
 # https://yourusername.github.io
-url: "https://github.com/BOB-KYO/kyoseokhwang2026"
+url: "https://bob-kyo.github.io"
 
 # Leave baseurl empty for a user site repository named:
 # yourusername.github.io
@@ -26,7 +26,7 @@ baseurl: ""
 
 # Must match the GitHub repository path exactly:
 # username/repository-name
-repository: "BOB-KYO/kyoseokhwang2026.github.io"
+repository: "BOB-KYO/BOB-KYO.github.io"
 
 # -------------------------
 # Author profile information
@@ -42,7 +42,7 @@ author:
   # Professional / academic links
   # Leave a field empty if it is not used.
   #googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
-  github: "BOB_KYO"
+  github: "BOB-KYO"
   linkedin: "https://www.linkedin.com/in/cs-kyo-hwang/"
   #orcid: "https://orcid.org/0009-0002-7107-2880"
 
