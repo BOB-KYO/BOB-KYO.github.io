@@ -29,4 +29,4 @@ I am particularly interested in the intersection of data science, IoT, and smart
 
 ## News
 
-- **2026**: Enrolled in DASC 5231 Data Visualization at UHCL.
+> *"Still learning. Always shipping."*
