@@ -29,5 +29,4 @@ I am particularly interested in the intersection of data science, IoT, and smart
 
 ## News
 
-- **April 2026**: Completed AI/IoT automation pipeline project integrating GPU encoding and CLIP visual analysis.
 - **2026**: Enrolled in DASC 5231 Data Visualization at UHCL.
