@@ -11,7 +11,22 @@ I am a graduate student in the M.S. Data Science program at the [University of H
 
 I am particularly interested in the intersection of data science, IoT, and smart systems — developing tools that make complex operations more efficient and reliable.
 
-<div style="border: 1px solid #ddd; border-radius: 14px; padding: 1rem 1.25rem; margin: 1.5rem 0; background: #fafafa;">
+<style>
+.opportunity-box {
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  background: #fafafa;
+  color: inherit;
+}
+[data-theme="dark"] .opportunity-box {
+  background: #2d2d2d;
+  border-color: #555;
+}
+</style>
+
+<div class="opportunity-box">
   <strong>Open to opportunities:</strong> I am actively looking for internship and entry-level roles in IT support, data science, and systems engineering. Feel free to reach out via email or LinkedIn.
 </div>
 
