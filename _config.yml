@@ -10,7 +10,7 @@ site_theme: "default"      # Theme skin used by the site
 title: "Kyoseok Hwang | Data Science & IT specialist"   # Text shown in browser tab and SEO metadata
 title_separator: "-"       # Separator used in page titles
 name: "Kyoseok Hwang"         # Main name shown across the site
-description: "IT Support & Operations | Data Science Graduate candidate Student | System Support, Troubleshooting, and Optimization| IoT & Smart Systems Interest"  # Short site description for search engines
+description: "IT Support & Operations | M.S. Data Science Candidate | Systems Troubleshooting & Optimization | IoT & Smart Systems"  # Short site description for search engines
 
 # -------------------------
 # GitHub Pages repository settings
@@ -34,7 +34,7 @@ repository: "BOB-KYO/BOB-KYO.github.io"
 author:
   avatar: "ksh_photo.jpeg"    # Profile image file shown in the sidebar/profile area
   name: "Kyoseok Hwang"
-  bio: "IT Support & Operations | Data Science Graduate candidate Student | System Support, Troubleshooting, and Optimization| IoT & Smart Systems Interest"
+  bio: "IT Support & Operations | M.S. Data Science Candidate | Systems Troubleshooting & Optimization | IoT & Smart Systems"
   location: "TX"
   MS Student: "University of Houston-Clear Lake"
   email: "hwangk7110@uhcl.edu"
@@ -43,7 +43,7 @@ author:
   # Leave a field empty if it is not used.
   #googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
   github: "BOB-KYO"
-  linkedin: "https://www.linkedin.com/in/cs-kyo-hwang/"
+  linkedin: "cs-kyo-hwang"
   #orcid: "https://orcid.org/0009-0002-7107-2880"
 
 # -------------------------
