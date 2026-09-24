@@ -7,7 +7,7 @@
 locale: "en-US"            # Main language/locale of the site
 site_theme: "default"      # Theme skin used by the site
 
-title: "Kyoseok Hwang | Data Science & IT specialist"   # Text shown in browser tab and SEO metadata
+title: "Kyoseok Hwang | Data Analytics & Technical Operations"   # Text shown in browser tab and SEO metadata
 title_separator: "-"       # Separator used in page titles
 name: "Kyoseok Hwang"         # Main name shown across the site
 description: "IT Support & Operations | M.S. Data Science Candidate | Systems Troubleshooting & Optimization | IoT & Smart Systems"  # Short site description for search engines

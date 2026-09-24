@@ -1,18 +1,8 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Kyoseok Hwang:
+  name        : "Kyoseok Hwang"
+  uri         : "https://bob-kyo.github.io"
+  email       : "hwangk7110@uhcl.edu"
+  bio         : "M.S. Data Science Candidate | Data Analytics & Technical Operations"
+  avatar      : "ksh_photo.jpeg"
+  github      : "BOB-KYO"
+  linkedin    : "cs-kyo-hwang"

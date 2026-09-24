@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Social Media–Driven Occupational Analysis"
+excerpt: "Graduate data project comparing official computing occupation taxonomies with emerging job-title patterns."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This graduate team project compares SOC/O*NET computing classifications with job titles found in public professional data. It focuses on taxonomy gaps created by emerging AI/ML roles and methods for normalizing diverse titles to official occupation codes.
+
+[View the repository](https://github.com/BOB-KYO/DASC5131_Group_Project)

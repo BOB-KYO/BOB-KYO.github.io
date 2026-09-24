@@ -1,152 +1,117 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Kyoseok Hwang",
+    "email": "hwangk7110@uhcl.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://bob-kyo.github.io",
+    "summary": "M.S. Data Science candidate with a B.S. in Computer Science and two years of IT support experience.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Houston",
       "countryCode": "US",
-      "region": ""
+      "region": "Texas"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "cs-kyo-hwang",
+        "url": "https://www.linkedin.com/in/cs-kyo-hwang/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "BOB-KYO",
+        "url": "https://github.com/BOB-KYO"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "SYNSAY",
+      "position": "IT Specialist",
+      "website": "",
+      "startDate": "2022-06",
+      "endDate": "2024-07",
+      "summary": "Provided hardware, software, network, and system troubleshooting, maintenance, documentation, and user support.",
+      "highlights": []
+    },
+    {
+      "company": "KAPLI",
+      "position": "Website Developer Intern",
+      "website": "",
+      "startDate": "2021-06",
+      "endDate": "2021-07",
+      "summary": "Supported website and MySQL operations and created maintenance documentation.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Houston–Clear Lake",
+      "area": "Data Science",
+      "studyType": "Master of Science",
+      "startDate": "2026-01",
+      "endDate": "2027-12",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "University of Houston–Downtown",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020",
+      "endDate": "2022-12",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Houston Community College",
+      "area": "Computer Programming — Applications Development",
+      "studyType": "Associate of Applied Science",
+      "startDate": "2018",
+      "endDate": "2020-05",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Data & Analytics",
+      "level": "",
+      "keywords": ["Python", "SQL", "R", "Excel", "pandas", "NumPy", "Matplotlib", "Seaborn", "Power BI", "Jupyter Notebook"]
+    },
+    {
+      "name": "Development & Systems",
+      "level": "",
+      "keywords": ["HTML", "CSS", "MySQL", "Git/GitHub", "Java", "C#", "IT troubleshooting"]
+    }
+  ],
+  "languages": [
+    {"language": "Korean", "fluency": "Native/Bilingual"},
+    {"language": "English", "fluency": "Professional Working Proficiency"}
+  ],
+  "interests": [
+    {"name": "Data Analytics", "keywords": ["Business Intelligence", "Operations Analytics", "Visualization"]},
+    {"name": "Technical Operations", "keywords": ["System Support", "Troubleshooting", "Documentation"]}
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "name": "Social Media–Driven Occupational Analysis",
+      "category": "Data Science",
+      "date": "2026",
+      "url": "https://github.com/BOB-KYO/DASC5131_Group_Project",
+      "description": "Graduate team project comparing official computing occupation taxonomies with emerging job-title patterns."
+    },
+    {
+      "name": "Tic-Tac-Toe Application",
+      "category": "Software Development",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": "https://github.com/BOB-KYO/TicTacToe",
+      "description": "Java Swing course project implementing a desktop user interface and game-state logic."
     }
   ]
 }

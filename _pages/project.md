@@ -4,79 +4,25 @@ title: "Projects"
 author_profile: true
 ---
 
+## Social Media–Driven Occupational Analysis
 
-This page highlights selected coursework, research, technical, or portfolio projects.
+- **Type:** Graduate team project
+- **Tools and data:** Python, Jupyter Notebook, O*NET 30.2, BLS OEWS, public LinkedIn job-posting data
+- **Repository:** [BOB-KYO/DASC5131_Group_Project](https://github.com/BOB-KYO/DASC5131_Group_Project)
 
-Students should include only projects they are comfortable showing publicly.
+This project compares official SOC/O*NET computing classifications with the job titles used in public professional data. The research focuses on taxonomy gaps created by emerging AI and machine-learning roles, longitudinal title trends, and approaches for normalizing diverse job titles to official occupation codes.
 
-## Project 1: Project Title
+## RFID-Based Jukebox System
 
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Spring 2026  
-**Tools:** Python, Jupyter Notebook, Pandas, Scikit-learn  
-**Link:** [GitHub Repository](https://github.com/yourusername/your-repo)
+- **Type:** Collaborative technical project
+- **Tools:** Python, Arduino IDE, RFID hardware
 
-Write 2 to 4 sentences describing the project:
-- What problem did the project address?
-- What data, methods, or tools were used?
-- What was your role?
-- What was the final outcome?
+The system used RFID cards as physical controls for audio selection. My contribution included application logic, hardware/software integration, testing, and deployment support.
 
-Example:
+## Tic-Tac-Toe Application
 
-This project explored student performance prediction using machine learning models. I cleaned the data, performed exploratory analysis, and trained several classification models in Python. The final model was used to compare prediction accuracy across multiple methods and summarize which features were most important.
+- **Type:** Course project
+- **Tools:** Java, Swing
+- **Repository:** [BOB-KYO/TicTacToe](https://github.com/BOB-KYO/TicTacToe)
 
-## Project 2: Project Title
-
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Fall 2025  
-**Tools:** Python, SQL, Tableau  
-**Link:** [Project Page](https://github.com/yourusername/your-project)
-
-Write 2 to 4 sentences describing the project.
-
-## Project 3: Project Title
-
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Summer 2025  
-**Tools:** R, ggplot2, Shiny  
-**Link:** [Demo or Repository](https://github.com/yourusername/your-project)
-
-Write 2 to 4 sentences describing the project.
-
----
-
-## Suggested Project Writing Format
-
-For each project, try to include:
-
-- project title
-- project type
-- date or semester
-- tools or methods
-- one link
-- a short summary of the work
-
-Recommended summary structure:
-
-1. What the project was about
-2. What you did
-3. What tools or methods you used
-4. What result you produced
-
----
-
-## Simple Reusable Block
-
-Students may copy and reuse this block for additional projects:
-
-```md
-## Project Title
-
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Semester or Year  
-**Tools:** List the main tools  
-**Link:** [Repository or Demo](https://github.com/yourusername/your-project)
-
-Write 2 to 4 sentences describing the project.
-```
+This desktop application uses Java Swing components to implement the game interface, player turns, win conditions, and game-state updates.
